@@ -3,9 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.32126.315
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoRecap-Mastemind", "ExoRecap-Mastemind\ExoRecap-Mastemind.csproj", "{14E02DB8-74AC-45F1-BD11-D7CEF6F1FE3D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExoRecap-Mastemind", "ExoRecap-Mastemind\ExoRecap-Mastemind.csproj", "{14E02DB8-74AC-45F1-BD11-D7CEF6F1FE3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoRecap-Minesweeper", "ExoRecap-Minesweeper\ExoRecap-Minesweeper.csproj", "{34689C90-ED01-4C02-B504-5C7DC605ED82}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ExoRecap-Minesweeper", "ExoRecap-Minesweeper\ExoRecap-Minesweeper.csproj", "{34689C90-ED01-4C02-B504-5C7DC605ED82}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ExoRecap-Puissance4", "ExoRecap-Puissance4\ExoRecap-Puissance4.csproj", "{86B6E5CD-C230-4C98-955B-6B699BA91AD2}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{34689C90-ED01-4C02-B504-5C7DC605ED82}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{34689C90-ED01-4C02-B504-5C7DC605ED82}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{34689C90-ED01-4C02-B504-5C7DC605ED82}.Release|Any CPU.Build.0 = Release|Any CPU
+		{86B6E5CD-C230-4C98-955B-6B699BA91AD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{86B6E5CD-C230-4C98-955B-6B699BA91AD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{86B6E5CD-C230-4C98-955B-6B699BA91AD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{86B6E5CD-C230-4C98-955B-6B699BA91AD2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
